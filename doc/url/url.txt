@@ -1,0 +1,6 @@
+
+http://localhost:8059/
+
+http://localhost:8059/man/plugin/kindeditor-4.1.10/jsp/demo.jsp
+
+http://localhost:8059/examples/index.html
